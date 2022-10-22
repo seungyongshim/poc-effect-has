@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<coverage version="1.0" date="2022-10-22_04-36-11" tag="6_3301962771">
+  <assembly name="Sample">
+    <class name="Sample.Has`2" coveredlines="1" coverablelines="1" totallines="14" coveredbranches="2" totalbranches="2" coveredcodeelements="1" totalcodeelements="1" />
+    <class name="Sample.Time`1" coveredlines="2" coverablelines="2" totallines="8" coveredbranches="2" totalbranches="2" coveredcodeelements="1" totalcodeelements="1" />
+  </assembly>
+</coverage>
